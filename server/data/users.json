@@ -1,0 +1,92 @@
+[
+  {
+    "user_id": 1,
+    "username": "test0",
+    "email": "test0@gmail.com"
+  },
+  {
+    "user_id": 2,
+    "username": "test1",
+    "email": "test1@gmail.com"
+  },
+  {
+    "user_id": 4,
+    "username": "test2",
+    "email": "test2@gmail.com"
+  },
+  {
+    "user_id": 5,
+    "username": "test3",
+    "email": "test3@gmail.com"
+  },
+  {
+    "user_id": 6,
+    "username": "",
+    "email": ""
+  },
+  {
+    "user_id": 7,
+    "username": "test4",
+    "email": "test4@gmail.com"
+  },
+  {
+    "user_id": 8,
+    "username": "test5",
+    "email": "test5@gmail.com"
+  },
+  {
+    "user_id": 12,
+    "username": "test6",
+    "email": "test6@gmail.com"
+  },
+  {
+    "user_id": 13,
+    "username": "test7",
+    "email": "test7@gmail.com"
+  },
+  {
+    "user_id": 14,
+    "username": "test8",
+    "email": "test8@gmail.com"
+  },
+  {
+    "user_id": 15,
+    "username": "test9",
+    "email": "test9@gmail.com"
+  },
+  {
+    "user_id": 16,
+    "username": "test10",
+    "email": "test10@gmail.com"
+  },
+  {
+    "user_id": 17,
+    "username": "test_1",
+    "email": "test_1@gmail.com"
+  },
+  {
+    "user_id": 23,
+    "username": "test_2",
+    "email": "test_2@gmail.com"
+  },
+  {
+    "user_id": 24,
+    "username": "test_3",
+    "email": "test_3@gmail.com"
+  },
+  {
+    "user_id": 25,
+    "username": "test_8",
+    "email": "test_8@gmail.com"
+  },
+  {
+    "user_id": 27,
+    "username": "test11",
+    "email": "test11@gmail.com"
+  },
+  {
+    "user_id": 28,
+    "username": "test17",
+    "email": "test17@gmail.com"
+  }
+]

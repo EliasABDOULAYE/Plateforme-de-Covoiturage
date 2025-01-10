@@ -1,0 +1,79 @@
+[
+  {
+    "trajet_id": 1,
+    "date": "2024-11-22T23:00:00.000Z",
+    "heure": "00:00:00",
+    "depart": "Paris",
+    "destination": "Lyon",
+    "nbr_places": 0,
+    "user_id": 1,
+    "username": "test0",
+    "email": "test0@gmail.com"
+  },
+  {
+    "trajet_id": 3,
+    "date": "2024-11-22T23:00:00.000Z",
+    "heure": "00:00:00",
+    "depart": "Paris",
+    "destination": "Lyon",
+    "nbr_places": 3,
+    "user_id": 1,
+    "username": "test0",
+    "email": "test0@gmail.com"
+  },
+  {
+    "trajet_id": 4,
+    "date": "2024-11-12T23:00:00.000Z",
+    "heure": "00:00:00",
+    "depart": "Toulouse",
+    "destination": "Lyon",
+    "nbr_places": 3,
+    "user_id": 1,
+    "username": "test0",
+    "email": "test0@gmail.com"
+  },
+  {
+    "trajet_id": 5,
+    "date": "2024-11-12T23:00:00.000Z",
+    "heure": "00:00:00",
+    "depart": "Touse",
+    "destination": "Lyon",
+    "nbr_places": 3,
+    "user_id": 1,
+    "username": "test0",
+    "email": "test0@gmail.com"
+  },
+  {
+    "trajet_id": 6,
+    "date": "2024-11-24T23:00:00.000Z",
+    "heure": "08:30:00",
+    "depart": "Paris",
+    "destination": "Lyon",
+    "nbr_places": 3,
+    "user_id": 1,
+    "username": "test0",
+    "email": "test0@gmail.com"
+  },
+  {
+    "trajet_id": 7,
+    "date": "2024-11-22T23:00:00.000Z",
+    "heure": "00:00:08",
+    "depart": "Paris",
+    "destination": "Lyon",
+    "nbr_places": 3,
+    "user_id": 5,
+    "username": "test3",
+    "email": "test3@gmail.com"
+  },
+  {
+    "trajet_id": 8,
+    "date": "2024-12-11T23:00:00.000Z",
+    "heure": "10:30:00",
+    "depart": "Paris",
+    "destination": "Lyon",
+    "nbr_places": 3,
+    "user_id": 5,
+    "username": "test3",
+    "email": "test3@gmail.com"
+  }
+]

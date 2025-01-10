@@ -1,0 +1,156 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header { 
+    background-color: #25303b;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1{
+    color: White;
+}
+h2, h3 {
+    color: #3498db;
+}
+
+#ListeTrajet ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 1100px;
+}
+
+#ListeTrajet li {
+    background: #fff;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#ListeTrajet li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.trajet-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.trajet-price {
+    background-color: #3498db;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.trajet-button {
+    background-color: #3498db;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.trajet-button:hover {
+    background-color: #25303b;
+}
+
+/* Formulaire de réservation */
+.reservation-form {
+    margin-top: 10px;
+}
+
+.error-message {
+    color: red;
+    display: none;
+}
+
+.trajet-button[disabled] {
+    background-color: #bbb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.container-trajets-recherche {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+    margin-top: 10%;
+}
+
+
+.container-trajet, .container-recherche {
+    background: #25303b;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+}
+
+.container-recherche a, .container-trajet a {
+    color: white;
+    text-decoration: none;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    margin-top: 30px;
+}
+
+.search-form {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.search-form input, .search-form button {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
